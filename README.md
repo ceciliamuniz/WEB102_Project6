@@ -2,7 +2,7 @@
 
 Submitted by: **Cecilia Muniz Siqueira**
 
-This web app: **DogDiscovery is a stumble-discovery web app that shows the user dog breeds and their traits, including a picture of the dog and an option to ban specific attributes**
+This web app: **DogDashis an interactive data dashboard that showcases dog breed information using data from the Dog API. Users can filter breeds by their breed group, search for specific dog breeds by name, and view summary statistics, including total number of breeds and average life span across all breeds**
 
 Time spent: **8** hours spent in total
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/ceciliamuniz/WEB102_Project3/blob/1a76a46c3a0c1b8c8eb085ac216dac31f6860d8b/src/assets/WEB102_W3_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ceciliamuniz/WEB102_Project6/blob/cb52529d63a441c3e8862766a5f2fbcc66a5333d/src/assets/WEB102_W6_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
