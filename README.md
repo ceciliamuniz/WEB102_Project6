@@ -2,7 +2,7 @@
 
 Submitted by: **Cecilia Muniz Siqueira**
 
-This web app: **DogDashis an interactive data dashboard that showcases dog breed information using data from the Dog API. Users can filter breeds by their breed group, search for specific dog breeds by name, and view summary statistics, including total number of breeds and average life span across all breeds**
+This web app: **DogDash is an interactive data dashboard that showcases dog breed information using data from the Dog API. Users can filter breeds by their breed group, search for specific dog breeds by name, and view summary statistics, including total number of breeds and average life span across all breeds.**
 
 Time spent: **8** hours spent in total
 
